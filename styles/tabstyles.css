@@ -1,0 +1,60 @@
+.common{
+    text-align: center;
+    position: static;
+ }
+ 
+ .header{
+    height:100px;
+    background-color: #005778;
+    line-height: 100px;
+ }
+ 
+ .footer{
+     height:50px;
+     line-height: 50px;
+     background-color: #FC4C02;
+ }
+ 
+ body{
+    background-color: #008E97;
+    color:ghostwhite;
+ }
+ 
+ img{
+     width:20%;
+     display:block;
+     margin-left:auto;
+     margin-right:auto;
+ }
+ 
+ .tableauPlaceholder{
+    width:40%;
+ }
+ 
+ .chartdescription{
+    padding-left: 50px;
+    font-size: 18px;
+ }
+ 
+ header{
+    text-align: right;
+    padding-right: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    height:50px;
+    line-height: 50px;
+    padding-top: 15px;
+ }
+ 
+ .listA{
+    font-size: 25px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .listB{
+    font-size:20px;
+ }
+ 
+ .helmimg{
+    width:50%;
+ }
